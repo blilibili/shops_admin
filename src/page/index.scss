@@ -1,0 +1,27 @@
+.root-page{
+  background-color: rgb(237,241,238);
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  .left{
+    width: 30%;
+  }
+  .right{
+    width: 60%;
+  }
+  .headers{
+    padding: 20px;
+    font-size: 14px;
+    background-color: rgb(42,44,57);
+    color: white;
+    height: 20%;
+  }
+  .content{
+    padding: 20px;
+    margin-top: 13px;
+    background-color: white;
+    min-height: 900px;
+    overflow: auto;
+    margin-left: 10px;
+  }
+}
