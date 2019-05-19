@@ -1,19 +1,16 @@
 import React , {Component} from 'react';
 import { Menu , Icon } from 'zent';
-import { Route, Switch } from 'react-router-dom';
-import {BrowserRouter} from 'react-router-dom';
+import { withRouter } from 'react-router-dom';
 const { MenuItem, SubMenu } = Menu;
-
-const onClick = (e, key) => {
-    // let { history } = this.props
-    // history.push(key)
-    // console.log(e, e.target.getAttribute('data-path') , key);
-    console.log(e , key , this)
-}
 
 class MenuChild extends React.Component{
     constructor(props){
         super(props)
+    }
+
+    onClick = (e , key) => {
+        let goToUrl = key
+        this.props.history.push(goToUrl)
     }
     render(){
         let _self = this
@@ -24,7 +21,7 @@ class MenuChild extends React.Component{
                     mode="inline"
                     defaultSelectedKey="/"
                     defaultExpandKeys={[]}
-                    onClick={onClick}
+                    onClick={(e , key) => this.onClick(e , key)}
                 >
                     <MenuItem key="/">
                         首页
@@ -77,4 +74,4 @@ class MenuChild extends React.Component{
     }
 }
 
-export default MenuChild;
+export default withRouter(MenuChild);
