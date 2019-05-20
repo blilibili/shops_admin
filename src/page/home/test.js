@@ -6,19 +6,25 @@ import { bindActionCreators } from "redux";
 class Test extends React.Component{
     constructor(props){
         super(props)
+        this.state = {
+            booksArr: this.props.books
+        }
     }
-    testHandler = () => {
-        let postData = { title: "C语言", pages: 55 }
-        console.log(this)
-        let newBoosArr = this.props.books.push(postData)
-        this.props.selectBook(newBoosArr)
 
-        this.forceUpdate()
+    testHandler = () => {
+        console.log(this.props)
+        let postData = { title: "C语言", pages: 55 }
+        this.props.selectBook(postData)
+
+
+        this.setState({
+            booksArr: this.props.activedBooks
+        })
     }
     render(){
         return (
             <div>
-                {this.props.books.map(book => {
+                {this.state.booksArr.map(book => {
                     return (
                         <div>{book.title}</div>
                     )
@@ -32,9 +38,9 @@ class Test extends React.Component{
 function mapStateToProps(state) {
     // Whatever is returned will show up as props
     // inside of BookList
-    console.log(state)
     return {
-        books: state.books
+        books: state.books,
+        activedBooks: state.activeBook
     };
 }
 
