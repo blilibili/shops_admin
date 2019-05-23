@@ -3,9 +3,9 @@ import { Layout } from 'zent';
 import { Route, Switch } from 'react-router-dom';
 import {BrowserRouter as Router} from 'react-router-dom';
 import Menu from './common/component/menu'
-import Test from './home/test'
 import Headers from './common/component/header'
-import ContentIndex from './home/index'
+
+import ReactRouter from './Router'
 import './index.scss'
 
 const { Row, Col } = Layout
@@ -29,10 +29,7 @@ class HomeIndex extends React.Component {
                             <Headers />
 
                             <div className="content">
-                                    <Switch>
-                                        <Route exact path="/" component={ContentIndex}/>
-                                        <Route path="/test" component={Test}/>
-                                    </Switch>
+                                <ReactRouter />
                             </div>
                         </Col>
                     </Row>

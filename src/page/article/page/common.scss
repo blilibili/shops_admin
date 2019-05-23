@@ -1,0 +1,15 @@
+.input-content{
+  width: 100%;
+  padding: 0 30px;
+  display: flex;
+  .input{
+    border: 1px solid black;
+    width: 80%;
+    //height: 450px;
+    overflow: auto;
+  }
+  .label{
+    width: 99px;
+    font-size: 14px;
+  }
+}
