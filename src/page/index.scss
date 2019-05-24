@@ -2,7 +2,7 @@
   background-color: rgb(237,241,238);
   width: 100%;
   height: 100vh;
-  overflow: auto;
+  overflow: hidden;
   .left{
     width: 30%;
   }
@@ -23,5 +23,17 @@
     min-height: 900px;
     overflow: auto;
     margin-left: 10px;
+  }
+}
+
+.home-page{
+  padding: 20px;
+  font-size: 12px;
+  .title{
+    border: 1px solid rgb(238,238,238);
+    padding: 20px 0;
+  }
+  /deep/ .zent-card-header{
+    font-size: 14px;
   }
 }

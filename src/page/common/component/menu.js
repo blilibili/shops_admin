@@ -24,11 +24,14 @@ class MenuChild extends React.Component{
                     onClick={(e , key) => this.onClick(e , key)}
                 >
                     <MenuItem key="/">
-                        <span><Icon type="flow-o" />首页</span>
+                        <span><Icon type="flow-o" />工作台</span>
                     </MenuItem>
                     <MenuItem key="/test">
                         <span><Icon type="shop-o" />店铺</span>
                     </MenuItem>
+                    <SubMenu title={<span><Icon type="business" />预约管理</span>} key="book">
+                        <MenuItem key="/book/list">预约列表</MenuItem>
+                    </SubMenu>
                     <SubMenu title={<span><Icon type="message" />文章</span>} key="1-3">
                         <MenuItem key="/article/index">文章管理</MenuItem>
                     </SubMenu>
