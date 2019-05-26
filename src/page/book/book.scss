@@ -1,0 +1,28 @@
+.book-list-page{
+  .title-controller{
+    padding: 10px;
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: space-between;
+    .mu-controller{
+      display: flex;
+    }
+  }
+  .search-controller{
+    margin-top: 10px;
+    display: flex;
+    font-size: 12px;
+    align-items: center;
+    .block{
+      .label{
+        width: 80px;
+      }
+      align-items: center;
+      display: flex;
+    }
+  }
+}
+
+.book-table-section{
+  margin-top: 20px;
+}

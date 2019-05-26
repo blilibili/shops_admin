@@ -1,7 +1,7 @@
 import React , {Component} from 'react'
 import {Button , Select , Input , DateRangePicker } from 'zent'
 
-import BookTable from './component/booksTable'
+import ExamineTable from './component/examineTable'
 import './book.scss'
 const Option = Select.Option;
 class BookList extends React.Component{
@@ -22,7 +22,7 @@ class BookList extends React.Component{
             <div className='book-list-page'>
                 <div className='title-controller'>
                     <div>
-                        <Button>添加预约</Button>
+
                     </div>
                     <div className="mu-controller">
                         <Select>
@@ -53,7 +53,7 @@ class BookList extends React.Component{
                     </div>
                 </div>
 
-                <BookTable></BookTable>
+                <ExamineTable></ExamineTable>
             </div>
         )
     }

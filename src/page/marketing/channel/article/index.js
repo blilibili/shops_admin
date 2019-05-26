@@ -1,7 +1,8 @@
 import React , {Component} from 'react';
 import { Card , Table , Button } from 'zent';
-import {anotherSelect, selectBook} from "../../actions";
-import {requestGetArticleList} from '../../service/article/article'
+import {anotherSelect, selectBook} from "@/actions";
+import {requestGetArticleList} from '@/service/article/article'
+import {withRouter} from 'react-router-dom';
 
 const datasets = [{
     item_id: '5024217',
@@ -98,4 +99,4 @@ class ArticleIndex extends React.Component{
 }
 
 
-export default ArticleIndex
+export default withRouter(ArticleIndex)
