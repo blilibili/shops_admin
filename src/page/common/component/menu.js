@@ -64,6 +64,20 @@ class MenuChild extends React.Component{
                         <MenuItem key="/market/message">消息通知</MenuItem>
                         <MenuItem key="/market/interface">渠道接口</MenuItem>
                     </SubMenu>
+
+                    <SubMenu title={<span><Icon type="shop-decorate" />财务结算</span>} key="1-7">
+                        <MenuItem key="/accounting/cash">快速收银</MenuItem>
+                        <MenuItem key="/accounting/cashout">提现处理</MenuItem>
+                        <MenuItem key="/accounting/verify">业务对账</MenuItem>
+                        <MenuItem key="/accounting/situation">资金概况</MenuItem>
+                    </SubMenu>
+
+                    <SubMenu title={<span><Icon type="shop-decorate" />数据统计</span>} key="1-8">
+                        <MenuItem key="/statistics/base">数据概况</MenuItem>
+                        <MenuItem key="/statistics/report">业务报表</MenuItem>
+                        <MenuItem key="/statistics/usersreport">用户报表</MenuItem>
+                        <MenuItem key="/statistics/analyse">业务分析</MenuItem>
+                    </SubMenu>
                 </Menu>
             </div>
         )

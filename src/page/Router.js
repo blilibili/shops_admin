@@ -28,6 +28,16 @@ import AddArticle from './marketing/channel/article/page/addArticle'
 import MessageManage from './marketing/message/index'
 import InterfaceManage from './marketing/interface/index'
 
+import QuickCash from './financialAccounting/cashier/index'
+import CashOut from './financialAccounting/cashout/index'
+import ServerVerify from './financialAccounting/verify/index'
+import MoneySituation from './financialAccounting/situation/index'
+
+import StatisticsBase from './statistics/dataBase/index'
+import StatisticsReport from './statistics/report/index'
+import StatisticsUserReport from './statistics/usersReport/index'
+import StatisticsAnalyse from './statistics/analyse/index'
+
 import Test from "./home/test";
 
 class ReactRouter extends React.Component{
@@ -60,6 +70,16 @@ class ReactRouter extends React.Component{
                 <Route path="/market/channel" component={MarketingChannel}/>
                 <Route path="/market/message" component={MessageManage}/>
                 <Route path="/market/interface" component={InterfaceManage}/>
+
+                <Route path="/accounting/cash" component={QuickCash}/>
+                <Route path="/accounting/cashout" component={CashOut}/>
+                <Route path="/accounting/verify" component={ServerVerify}/>
+                <Route path="/accounting/situation" component={MoneySituation}/>
+
+                <Route path="/statistics/base" component={StatisticsBase}/>
+                <Route path="/statistics/report" component={StatisticsReport}/>
+                <Route path="/statistics/usersreport" component={StatisticsUserReport}/>
+                <Route path="/statistics/analyse" component={StatisticsAnalyse}/>
             </Switch>
         )
     }

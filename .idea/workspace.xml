@@ -2,112 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40ea81f5-0e63-4012-b9e1-9cfed454b0f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/page/agent/agentManage/apply/apply.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/agentManage/apply/applyList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/agentManage/apply/component/applyListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/agentManage/apply/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/agentManage/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/agentManage/list/agentList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/agentManage/list/agentList.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/agentManage/list/component/agentListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/agentManage/list/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/agentManage/statistics/component/statisticsTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/agentManage/statistics/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/agentManage/statistics/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/agentManage/statistics/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverConfig/baseConfig/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverConfig/baseConfig/base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverConfig/baseConfig/component/baseListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverConfig/baseConfig/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverConfig/deduct/component/deductListListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverConfig/deduct/deduct.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverConfig/deduct/deduct.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverConfig/deduct/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverConfig/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverMange/cashOut/cash.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverMange/cashOut/cashOut.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverMange/cashOut/component/cashListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverMange/cashOut/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverMange/commisson/commissonList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverMange/commisson/commissonList.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverMange/commisson/component/commissonListListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverMange/commisson/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverMange/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverMange/statistics/component/statisticsTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverMange/statistics/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverMange/statistics/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/agent/serverMange/statistics/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/book/book.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/book/component/booksTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/book/component/examineTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/book/examine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/book/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/channel/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/interface/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/message/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/message/inside/component/insideTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/message/inside/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/message/inside/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/message/inside/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/message/notice/component/noticeListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/message/notice/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/message/notice/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/message/notice/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/message/sms/component/smsListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/message/sms/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/message/sms/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/message/sms/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/tool/activity/component/activityTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/tool/activity/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/tool/activity/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/tool/activity/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/tool/bonus/component/agentListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/tool/bonus/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/tool/bonus/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/tool/bonus/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/tool/coupon/component/couponListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/tool/coupon/coupon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/tool/coupon/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/tool/coupon/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/marketing/tool/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/member/memberGroup/component/memberGroupTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/member/memberGroup/member.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/member/memberGroup/memberGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/member/memberGroup/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/member/memberList/component/memberListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/member/memberList/member.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/member/memberList/memberList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/member/memberList/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/member/memeberDataAna/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/order/after.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/order/appraise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/order/component/orderTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/order/list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/order/orderList.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/order/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/card/card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/card/cardList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/card/component/cardTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/card/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/product/component/productTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/product/product.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/product/productList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/product/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/productManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/service/list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/service/service.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/service/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/typeManage/card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/typeManage/component/typeManageTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/typeManage/typeManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/productManage/typeManage/util/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/activity/component/activityTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/activity/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/activity/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/activity/util/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/bonus/component/agentListTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/bonus/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/bonus/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/bonus/util/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/coupon/component/couponListTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/coupon/coupon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/coupon/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/coupon/util/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashout/article/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashout/article/page/addArticle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashout/article/page/common.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/inside/component/insideTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/inside/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/inside/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/inside/util/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/notice/component/noticeListTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/notice/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/notice/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/notice/util/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/sms/component/smsListTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/sms/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/sms/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/sms/util/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/verify/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/activity/component/activityTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/activity/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/activity/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/activity/util/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/bonus/component/agentListTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/bonus/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/bonus/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/bonus/util/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/coupon/component/couponListTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/coupon/coupon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/coupon/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/coupon/util/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/dataBase/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/commission/component/commissionTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/commission/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/commission/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/commission/util/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/order/component/orderTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/order/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/order/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/order/util/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/inside/component/insideTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/inside/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/inside/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/inside/util/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/notice/component/noticeListTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/notice/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/notice/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/notice/util/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/sms/component/smsListTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/sms/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/sms/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/sms/util/data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/page/Router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/Router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/article/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/marketing/channel/article/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/article/page/addArticle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/marketing/channel/article/page/addArticle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/article/page/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/marketing/channel/article/page/common.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/book/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/book/list.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/page/common/component/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/common/component/menu.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -122,31 +85,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/marketing/message/index.js">
+        <entry file="file://$PROJECT_DIR$/src/page/Router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+            <state relative-caret-position="536">
+              <caret line="81" column="29" lean-forward="true" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="48" />
               <folding>
-                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#0#40#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/marketing/message/sms/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/page/marketing/interface/index.js">
+        <entry file="file://$PROJECT_DIR$/src/page/common/component/menu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+            <state relative-caret-position="816">
+              <caret line="78" column="58" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/statistics/analyse/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -155,34 +121,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/Router.js">
+        <entry file="file://$PROJECT_DIR$/src/page/statistics/report/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="46" />
+            <state relative-caret-position="560">
+              <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
               <folding>
-                <element signature="e#0#40#0" expanded="true" />
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/common/component/menu.js">
+        <entry file="file://$PROJECT_DIR$/src/page/statistics/usersReport/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="64" column="56" selection-start-line="64" selection-start-column="56" selection-end-line="64" selection-end-column="56" />
+            <state relative-caret-position="564">
+              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
               <folding>
-                <element signature="e#0#40#0" expanded="true" />
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/marketing/message/notice/index.js">
+        <entry file="file://$PROJECT_DIR$/src/page/statistics/report/commission/component/commissionTable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="560">
+              <caret line="68" column="57" selection-start-line="68" selection-start-column="57" selection-end-line="68" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/statistics/report/commission/util/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="676">
+              <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/statistics/report/commission/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-308">
+              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
               <folding>
                 <element signature="e#6#45#0" expanded="true" />
               </folding>
@@ -191,43 +187,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/marketing/message/sms/component/smsListTable.js">
+        <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/component/orderTable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/marketing/message/sms/util/data.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/marketing/message/notice/util/data.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/marketing/message/notice/component/noticeListTable.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="68" column="46" selection-start-line="68" selection-start-column="46" selection-end-line="68" selection-end-column="46" />
+            <state relative-caret-position="424">
+              <caret line="68" column="52" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -264,22 +227,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/page/member/memberGroup/memberGroup.js" />
-        <option value="$PROJECT_DIR$/src/page/member/memberList/memberList.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/agentManage/apply/util/data.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/agentManage/apply/component/applyListTable.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/agentManage/apply/applyList.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/agentManage/list/util/data.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/agentManage/list/component/agentListTable.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/agentManage/list/agentList.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/agentManage/statistics/util/data.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/agentManage/statistics/component/statisticsTable.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/agentManage/index.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/agentManage/statistics/index.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/serverMange/commisson/util/data.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/serverMange/commisson/component/commissonListListTable.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/serverMange/cashOut/util/data.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/serverMange/cashOut/component/cashListTable.js" />
         <option value="$PROJECT_DIR$/src/page/agent/serverMange/index.js" />
         <option value="$PROJECT_DIR$/src/page/agent/serverMange/cashOut/cashOut.js" />
         <option value="$PROJECT_DIR$/src/page/agent/serverMange/commisson/commissonList.js" />
@@ -312,9 +259,25 @@
         <option value="$PROJECT_DIR$/src/page/marketing/message/sms/component/smsListTable.js" />
         <option value="$PROJECT_DIR$/src/page/marketing/message/index.js" />
         <option value="$PROJECT_DIR$/src/page/marketing/message/sms/index.js" />
+        <option value="$PROJECT_DIR$/src/page/marketing/interface/index.js" />
+        <option value="$PROJECT_DIR$/src/page/financialAccounting/cashier/index.js" />
+        <option value="$PROJECT_DIR$/src/page/financialAccounting/cashout/index.js" />
+        <option value="$PROJECT_DIR$/src/page/financialAccounting/verify/index.js" />
+        <option value="$PROJECT_DIR$/src/page/financialAccounting/situation/index.js" />
+        <option value="$PROJECT_DIR$/src/page/statistics/interface/index.js" />
+        <option value="$PROJECT_DIR$/src/page/statistics/dataBase/index.js" />
+        <option value="$PROJECT_DIR$/src/page/statistics/report/order/component/activityTable.js" />
+        <option value="$PROJECT_DIR$/src/page/statistics/report/order/util/data.js" />
+        <option value="$PROJECT_DIR$/src/page/statistics/report/order/index.js" />
+        <option value="$PROJECT_DIR$/src/page/statistics/report/order/component/orderTable.js" />
+        <option value="$PROJECT_DIR$/src/page/statistics/report/commission/util/data.js" />
+        <option value="$PROJECT_DIR$/src/page/statistics/report/commission/component/commissionTable.js" />
+        <option value="$PROJECT_DIR$/src/page/statistics/report/commission/index.js" />
+        <option value="$PROJECT_DIR$/src/page/statistics/report/index.js" />
+        <option value="$PROJECT_DIR$/src/page/statistics/usersReport/index.js" />
+        <option value="$PROJECT_DIR$/src/page/statistics/analyse/index.js" />
         <option value="$PROJECT_DIR$/src/page/Router.js" />
         <option value="$PROJECT_DIR$/src/page/common/component/menu.js" />
-        <option value="$PROJECT_DIR$/src/page/marketing/interface/index.js" />
       </list>
     </option>
   </component>
@@ -348,21 +311,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="page" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="shops_admin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shops_admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-              <item name="marketing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shops_admin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shops_admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-              <item name="marketing" type="462c0819:PsiDirectoryNode" />
-              <item name="interface" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -380,15 +328,15 @@
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\marketing" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\statistics\report" />
+      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page" />
       <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\marketing" />
       <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\channel\channel" />
       <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\channel" />
-      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page" />
-      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\agent\serverConfig" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\marketing" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -418,11 +366,12 @@
       <workItem from="1558850348644" duration="6308000" />
       <workItem from="1558861479104" duration="6534000" />
       <workItem from="1558868238370" duration="2543000" />
+      <workItem from="1558975111600" duration="2368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24690000" />
+    <option name="totallyTimeSpent" value="27058000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -471,156 +420,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverMange/commisson/util/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverMange/commisson/component/commissonListListTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="68" column="53" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverMange/cashOut/util/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverMange/cashOut/component/cashListTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="68" column="44" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverMange/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverMange/cashOut/cashOut.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="e#6#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverMange/commisson/commissonList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="e#6#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverConfig/baseConfig/base.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverConfig/deduct/util/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverConfig/deduct/component/deductListListTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="68" column="50" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverConfig/baseConfig/util/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="68" column="19" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverConfig/baseConfig/component/baseListTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="68" column="44" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverConfig/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-336">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverConfig/deduct/deduct.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-          <folding>
-            <element signature="e#6#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/agent/serverConfig/baseConfig/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-          <folding>
-            <element signature="e#6#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/tool/bonus/util/data.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/tool/coupon/util/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/page/marketing/tool/coupon/component/couponListTable.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="424">
@@ -720,15 +519,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/channel/serverConfig/deduct/util/data.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/channel/channel/article/page/common.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/channel/channel/article/page/addArticle.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/channel/serverConfig/deduct/util/data.js" />
+    <entry file="file://$PROJECT_DIR$/src/page/channel/channel/article/page/common.scss" />
+    <entry file="file://$PROJECT_DIR$/src/page/channel/channel/article/page/addArticle.js" />
     <entry file="file://$PROJECT_DIR$/src/page/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -739,44 +532,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/channel/channel/article/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="101" column="39" selection-start-line="101" selection-start-column="39" selection-end-line="101" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/channel/channel/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/serverConfig/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-500">
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/serverMange/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-696">
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/channel/channel/article/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/page/channel/channel/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/page/marketing/serverConfig/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/page/marketing/serverMange/index.js" />
     <entry file="file://$PROJECT_DIR$/src/page/marketing/channel/article/page/common.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -807,9 +566,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/marketing/interface/bonus/util/data.js" />
+    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1036">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/sms/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/notice/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="e#6#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/sms/component/smsListTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/sms/util/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1876">
+          <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/page/marketing/message/notice/util/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
+        <state relative-caret-position="1876">
           <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -819,7 +623,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/page/marketing/message/notice/component/noticeListTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
+        <state relative-caret-position="1848">
           <caret line="68" column="46" selection-start-line="68" selection-start-column="46" selection-end-line="68" selection-end-column="46" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -827,57 +631,160 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/notice/index.js">
+    <entry file="file://$PROJECT_DIR$/src/page/marketing/interface/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/financialAccounting/cashier/bonus/util/data.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/financialAccounting/cashier/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/financialAccounting/cashout/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/financialAccounting/verify/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/financialAccounting/situation/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/analyse/bonus/util/data.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/dataBase/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/page/addArticle.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/util/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="68" column="27" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/component/orderTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="68" column="52" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
           <folding>
             <element signature="e#6#45#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/sms/util/data.js">
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/commission/util/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
+        <state relative-caret-position="676">
+          <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/sms/component/smsListTable.js">
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/commission/component/commissionTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="68" column="57" selection-start-line="68" selection-start-column="57" selection-end-line="68" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/commission/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/usersReport/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/analyse/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
-          <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/interface/bonus/util/data.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/sms/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/page/Router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="46" />
+        <state relative-caret-position="536">
+          <caret line="81" column="29" lean-forward="true" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="48" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
@@ -886,20 +793,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/page/common/component/menu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="64" column="56" selection-start-line="64" selection-start-column="56" selection-end-line="64" selection-end-column="56" />
+        <state relative-caret-position="816">
+          <caret line="78" column="58" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="58" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/interface/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
