@@ -2,74 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40ea81f5-0e63-4012-b9e1-9cfed454b0f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/activity/component/activityTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/activity/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/activity/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/activity/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/bonus/component/agentListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/bonus/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/bonus/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/bonus/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/coupon/component/couponListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/coupon/coupon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/coupon/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/coupon/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashier/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashout/article/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashout/article/page/addArticle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashout/article/page/common.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/cashout/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/inside/component/insideTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/inside/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/inside/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/inside/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/notice/component/noticeListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/notice/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/notice/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/notice/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/sms/component/smsListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/sms/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/sms/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/situation/sms/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/financialAccounting/verify/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/activity/component/activityTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/activity/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/activity/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/activity/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/bonus/component/agentListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/bonus/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/bonus/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/bonus/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/coupon/component/couponListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/coupon/coupon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/coupon/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/coupon/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/analyse/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/dataBase/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/commission/component/commissionTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/commission/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/commission/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/commission/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/order/component/orderTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/order/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/order/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/report/order/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/inside/component/insideTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/inside/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/inside/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/inside/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/notice/component/noticeListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/notice/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/notice/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/notice/util/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/sms/component/smsListTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/sms/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/sms/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/statistics/usersReport/sms/util/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/book/chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/library/articleConfig/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/library/articleManage/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/library/commentManage/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/library/statistics/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/storeManage/bookConfig/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/storeManage/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/storeManage/list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/system/agentConfig/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/system/base/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/system/bussinessConfig/cashOut/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/system/bussinessConfig/collection/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/system/bussinessConfig/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/system/bussinessConfig/payConfig/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/system/memberConfig/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/system/noticeTemplateConfig/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/system/safeCenter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/system/serverConfig/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shops_admin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shops_admin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/page/Router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/Router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/page/common/component/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/common/component/menu.js" afterDir="false" />
     </list>
@@ -87,32 +41,81 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/page/Router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="81" column="29" lean-forward="true" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="48" />
+            <state relative-caret-position="337">
+              <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="40" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/system/bussinessConfig/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-224">
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/common/component/menu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-528">
+              <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1092" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-1216" />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/page/book/list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/page/common/component/menu.js">
+        <entry file="file://$PROJECT_DIR$/src/page/book/chart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="78" column="58" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="58" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/statistics/analyse/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+            <state relative-caret-position="144">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -121,79 +124,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/statistics/report/index.js">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="196">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/statistics/usersReport/index.js">
+        <entry file="file://$PROJECT_DIR$/src/page/system/serverConfig/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/statistics/report/commission/component/commissionTable.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="68" column="57" selection-start-line="68" selection-start-column="57" selection-end-line="68" selection-end-column="57" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/statistics/report/commission/util/data.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/statistics/report/commission/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-308">
-              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-              <folding>
-                <element signature="e#6#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/component/orderTable.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="68" column="52" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="504">
+              <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -215,6 +158,7 @@
       <find>alias</find>
       <find>block</find>
       <find>book-list-page</find>
+      <find>BookChart</find>
     </findStrings>
     <dirStrings>
       <dir>D:\my-work\shops_admin_web\shops_admin\src\page</dir>
@@ -227,26 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/page/agent/serverMange/index.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/serverMange/cashOut/cashOut.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/serverMange/commisson/commissonList.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/serverConfig/baseConfig/util/data.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/serverConfig/deduct/util/data.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/serverConfig/deduct/component/deductListListTable.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/serverConfig/index.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/serverConfig/baseConfig/component/baseListTable.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/serverConfig/deduct/deduct.js" />
-        <option value="$PROJECT_DIR$/src/page/agent/serverConfig/baseConfig/base.js" />
-        <option value="$PROJECT_DIR$/src/page/marketing/tool/coupon/util/data.js" />
-        <option value="$PROJECT_DIR$/src/page/marketing/tool/coupon/component/couponListTable.js" />
-        <option value="$PROJECT_DIR$/src/page/marketing/tool/coupon/index.scss" />
-        <option value="$PROJECT_DIR$/src/page/marketing/tool/coupon/coupon.js" />
-        <option value="$PROJECT_DIR$/src/page/book/book.scss" />
-        <option value="$PROJECT_DIR$/src/page/marketing/tool/bonus/index.js" />
-        <option value="$PROJECT_DIR$/src/page/marketing/tool/activity/util/data.js" />
-        <option value="$PROJECT_DIR$/src/page/marketing/tool/index.js" />
-        <option value="$PROJECT_DIR$/src/page/marketing/tool/activity/component/activityTable.js" />
-        <option value="$PROJECT_DIR$/src/page/marketing/tool/activity/index.js" />
         <option value="$PROJECT_DIR$/src/page/channel/channel/index.js" />
         <option value="$PROJECT_DIR$/src/page/channel/channel/article/index.js" />
         <option value="$PROJECT_DIR$/src/page/marketing/message/inside/component/insideTable.js" />
@@ -276,8 +200,28 @@
         <option value="$PROJECT_DIR$/src/page/statistics/report/index.js" />
         <option value="$PROJECT_DIR$/src/page/statistics/usersReport/index.js" />
         <option value="$PROJECT_DIR$/src/page/statistics/analyse/index.js" />
+        <option value="$PROJECT_DIR$/src/page/library/commentManage/index.js" />
+        <option value="$PROJECT_DIR$/src/page/library/articleConfig/index.js" />
+        <option value="$PROJECT_DIR$/src/page/library/articleManage/index.js" />
+        <option value="$PROJECT_DIR$/src/page/library/statistics/index.js" />
+        <option value="$PROJECT_DIR$/src/page/storeManage/list/index.js" />
+        <option value="$PROJECT_DIR$/src/page/storeManage/config/index.js" />
+        <option value="$PROJECT_DIR$/src/page/storeManage/bookConfig/index.js" />
+        <option value="$PROJECT_DIR$/src/page/system/agentConfig/index.js" />
+        <option value="$PROJECT_DIR$/src/page/system/bussinessConfig/collections.js" />
+        <option value="$PROJECT_DIR$/src/page/system/bussinessConfig/collection/index.js" />
+        <option value="$PROJECT_DIR$/src/page/system/bussinessConfig/payConfig/index.js" />
+        <option value="$PROJECT_DIR$/src/page/system/bussinessConfig/cashOut/index.js" />
+        <option value="$PROJECT_DIR$/src/page/system/memberConfig/index.js" />
+        <option value="$PROJECT_DIR$/src/page/system/serverConfig/index.js" />
+        <option value="$PROJECT_DIR$/src/page/system/noticeTemplateConfig/index.js" />
+        <option value="$PROJECT_DIR$/src/page/system/safeCenter/index.js" />
+        <option value="$PROJECT_DIR$/src/page/system/base/index.js" />
+        <option value="$PROJECT_DIR$/src/page/system/bussinessConfig/index.js" />
         <option value="$PROJECT_DIR$/src/page/Router.js" />
         <option value="$PROJECT_DIR$/src/page/common/component/menu.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/page/book/chart.js" />
       </list>
     </option>
   </component>
@@ -311,6 +255,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="page" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="shops_admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shops_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -328,14 +279,14 @@
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\statistics\report" />
-      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page" />
-      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\marketing" />
-      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\channel\channel" />
-      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\channel" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\marketing" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\system" />
+      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\system\bussinessConfig" />
+      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page" />
+      <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\statistics\report" />
       <recent name="D:\my-work\shops_admin_web\shops_admin\src\page\marketing" />
     </key>
   </component>
@@ -367,14 +318,16 @@
       <workItem from="1558861479104" duration="6534000" />
       <workItem from="1558868238370" duration="2543000" />
       <workItem from="1558975111600" duration="2368000" />
+      <workItem from="1559055603591" duration="5883000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27058000" />
+    <option name="totallyTimeSpent" value="32941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18651211" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -420,217 +373,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/tool/coupon/component/couponListTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="68" column="46" selection-start-line="68" selection-start-column="46" selection-end-line="68" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/book/book.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/book/list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-164">
-          <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/tool/coupon/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/tool/coupon/coupon.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="35" column="60" lean-forward="true" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
-          <folding>
-            <element signature="e#6#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/tool/bonus/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-          <folding>
-            <element signature="e#6#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/tool/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/tool/activity/util/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="68" column="19" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/tool/activity/component/activityTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="68" column="44" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/tool/activity/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-          <folding>
-            <element signature="e#6#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/channel/serverConfig/deduct/util/data.js" />
-    <entry file="file://$PROJECT_DIR$/src/page/channel/channel/article/page/common.scss" />
-    <entry file="file://$PROJECT_DIR$/src/page/channel/channel/article/page/addArticle.js" />
-    <entry file="file://$PROJECT_DIR$/src/page/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/channel/channel/article/index.js" />
-    <entry file="file://$PROJECT_DIR$/src/page/channel/channel/index.js" />
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/serverConfig/index.js" />
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/serverMange/index.js" />
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/channel/article/page/common.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/inside/component/insideTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/inside/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-416">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/inside/util/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="68" column="17" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/interface/bonus/util/data.js" />
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1036">
-          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/sms/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/notice/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding>
-            <element signature="e#6#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/sms/component/smsListTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/sms/util/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1876">
-          <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/notice/util/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1876">
-          <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/marketing/message/notice/component/noticeListTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="68" column="46" selection-start-line="68" selection-start-column="46" selection-end-line="68" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/page/marketing/interface/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -697,9 +439,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/page/addArticle.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/page/addArticle.js" />
     <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/util/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="676">
@@ -707,36 +447,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/component/orderTable.js">
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/analyse/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="68" column="52" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
+        <state relative-caret-position="1036">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/index.js">
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        <state relative-caret-position="1400">
+          <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
           <folding>
-            <element signature="e#6#45#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/commission/util/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/page/statistics/report/commission/component/commissionTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
+        <state relative-caret-position="1848">
           <caret line="68" column="57" selection-start-line="68" selection-start-column="57" selection-end-line="68" selection-end-column="57" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -744,17 +477,166 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/commission/util/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1876">
+          <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/page/statistics/report/commission/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-308">
+        <state relative-caret-position="112">
           <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/index.js">
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+          <folding>
+            <element signature="e#6#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/statistics/report/order/component/orderTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="68" column="52" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/library/statistics/order/util/data.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/library/articleManage/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/library/articleConfig/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/library/statistics/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/storeManage/statistics/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/storeManage/list/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/storeManage/config/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
-          <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/storeManage/bookConfig/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/system/bussinessConfig/collections.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/system/bussinessConfig/collection/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/system/bussinessConfig/payConfig/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/system/bussinessConfig/cashOut/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/productManage/card/cardList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-416" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/member/memberGroup/memberGroup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/library/commentManage/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/book/component/booksTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/book/component/examineTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -763,18 +645,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/page/statistics/usersReport/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        <state relative-caret-position="536">
+          <caret line="37" column="23" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="37" selection-end-column="23" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/page/statistics/analyse/index.js">
+    <entry file="file://$PROJECT_DIR$/src/page/system/agentConfig/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        <state relative-caret-position="727">
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/system/memberConfig/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/system/noticeTemplateConfig/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/system/safeCenter/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="727">
+          <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/system/base/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/system/serverConfig/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/system/bussinessConfig/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/book/list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -783,8 +719,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/page/Router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="81" column="29" lean-forward="true" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="48" />
+        <state relative-caret-position="337">
+          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="40" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
@@ -793,10 +729,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/page/common/component/menu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="78" column="58" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="58" />
+        <state relative-caret-position="-528">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1216" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1092" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/book/chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
